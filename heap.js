@@ -1,5 +1,5 @@
   var array_length;
-/* to create MAX  array for sorting */  
+/* to create MAX  array for sorting of array */  
 function heap_root(input, i) {
     var left = 2 * i + 1;
     var right = 2 * i + 2;
